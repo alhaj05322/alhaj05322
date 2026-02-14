@@ -45,6 +45,8 @@ Keep it personable and approachable, but professional.]
   <img src="https://img.shields.io/badge/sprinboot--green?logo=springboot&label=SpringBoot&labelColor=gray&color=gray" />
   <img src="https://img.shields.io/badge/git--pink?logo=git&logoColor=black&label=git&labelColor=green&color=green" />
   <img src="https://img.shields.io/badge/github--pink?logo=github&logoColor=black&label=github&labelColor=white&color=white" />
+  <img src="https://img.shields.io" alt="HTML5 Badge">
+
 </p>
 
 ---
