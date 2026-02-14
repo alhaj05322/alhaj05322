@@ -10,8 +10,8 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm [Your Name]  
-**[Your tagline here — one line that summarizes your mission/skills.]**
+# Hi, I'm Alhaj Musa  
+**Software Engineer**
 
 ---
 
