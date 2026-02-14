@@ -35,7 +35,7 @@ Keep it personable and approachable, but professional.]
 
 <p align="center">
   <!-- Replace or remove badges as needed -->
-  <img src="https://img.shields.io/badge/Java--green?style=flat&logo=java&logoColor=green" />
+  <img src="https://img.shields.io/badge/java--pink?logo=openjdk&logoColor=black&label=Java&labelColor=green&color=green" />
   <img src="https://img.shields.io/badge/python--blue?logo=python&logoColor=green&label=python&labelColor=blue&color=blue" />
   <img src="https://img.shields.io/badge/Java--green?logo=flask&logoColor=white&label=Flask&labelColor=blue&color=blue" />
   <img src="https://img.shields.io/badge/javascript--green?logo=javascript&logoColor=white&label=JavaScript&labelColor=red&color=red" />
