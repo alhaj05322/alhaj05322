@@ -38,6 +38,12 @@ Keep it personable and approachable, but professional.]
   <img src="https://img.shields.io/badge/Java--green?style=flat&logo=java&logoColor=green" />
   <img src="https://img.shields.io/badge/python--blue?logo=python&logoColor=green&label=python&labelColor=blue&color=blue" />
   <img src="https://img.shields.io/badge/Java--green?logo=flask&logoColor=white&label=Flask&labelColor=blue&color=blue" />
+  <img src="https://img.shields.io/badge/javascript--green?logo=javascript&logoColor=white&label=JavaScript&labelColor=red&color=red" />
+  <img src="https://img.shields.io/badge/html--green?logo=html&logoColor=green&label=HTML&labelColor=green&color=green" />
+  <img src="https://img.shields.io/badge/c--green?logo=c&logoColor=yellow&label=C&labelColor=green&color=green" />
+  <img src="https://img.shields.io/badge/angular--green?logo=angular&logoColor=pink&label=Angular&labelColor=white&color=white" />
+  <img src="https://img.shields.io/badge/sprinboot--green?logo=springboot&label=SpringBoot&labelColor=gray&color=gray" />
+  <img src="https://img.shields.io/badge/angular--green?logo=angular&logoColor=pink&label=Angular&labelColor=white&color=white" />
 </p>
 
 ---
