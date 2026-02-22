@@ -99,8 +99,8 @@ _[One-line description of the project.]_
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](INSERT_LINKEDIN_URL)  
-[![Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white)](INSERT_PERSONAL_SITE_URL)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)  
+ 
 
 ---
 
