@@ -20,8 +20,7 @@
 <!-- ============================= -->
 
 ## About Me  
-[Write 3–5 sentences about yourself. Who you are, what you build, and what excites you.  
-Keep it personable and approachable, but professional.]  
+Passionate Software Engineer with a strong foundation in JavaScript, HTML, Angular, Java, Python, C, Springboot, Flask, LLMs, NLP, and MongoDB, eager to contribute to full-stack development projects. Experienced in creating, testing, and maintaining web applications during capstone project, with a focus on writing clean, efficient code and improving application performance 
 
 🎥 Optional: Add a link to your YouTube channel or other platform.  
 
